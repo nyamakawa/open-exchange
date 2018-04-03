@@ -1,2 +1,4 @@
 rate
+http_get
+parse_json
 .vscode
